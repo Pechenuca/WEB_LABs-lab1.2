@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99640bc8-1695-4726-bff6-24db35e5892d" name="Default Changelist" comment="dddd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kBh399nIZ9BdkvBr0cOaIa0ktA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\WEB_LABs-lab1\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\maxim\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99640bc8-1695-4726-bff6-24db35e5892d" name="Default Changelist" comment="" />
+      <created>1605179689548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605179689548</updated>
+      <workItem from="1605179690945" duration="5479000" />
+      <workItem from="1605201902949" duration="3974000" />
+      <workItem from="1605210223739" duration="1401000" />
+      <workItem from="1605212889466" duration="69000" />
+      <workItem from="1605640954552" duration="158000" />
+      <workItem from="1606054840733" duration="1988000" />
+      <workItem from="1606197989457" duration="2297000" />
+      <workItem from="1607160415411" duration="19000" />
+      <workItem from="1607362191045" duration="2513000" />
+      <workItem from="1607406356389" duration="662000" />
+    </task>
+    <task id="LOCAL-00001" summary="dddd">
+      <created>1605212914999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605212914999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dddd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2335" y="523" key="#Notifications" timestamp="1607407018046">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2335" y="523" key="#Notifications/0.0.3440.1400@0.0.3440.1400" timestamp="1607407018046" />
+    <state x="2360" y="441" key="FileChooserDialogImpl" timestamp="1607406909899">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2360" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1607406909899" />
+    <state x="2444" y="597" key="Github.ShareDialog" timestamp="1607406982957">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2444" y="597" key="Github.ShareDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1607406982957" />
+    <state x="2172" y="432" key="Vcs.Push.Dialog.v2" timestamp="1605212921220">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2172" y="432" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1605212921220" />
+    <state x="2410" y="490" key="svn.repositoryBrowser" timestamp="1607406912468">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2410" y="490" key="svn.repositoryBrowser/0.0.3440.1400@0.0.3440.1400" timestamp="1607406912468" />
+    <state x="2395" y="473" key="svn4idea.import.options" timestamp="1607406911362">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2395" y="473" key="svn4idea.import.options/0.0.3440.1400@0.0.3440.1400" timestamp="1607406911362" />
+  </component>
+</project>
