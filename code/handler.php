@@ -92,4 +92,4 @@ checkSession([$today, $message, $x, $y, $r, $work_time]);
 coolPrint($_SESSION['table']);
 
 
-echo "<script type='text/javascript'> document.location = 'https://se.ifmo.ru/~s282351/index.php'; </script>";
+echo "<script type='text/javascript'> document.location = 'http://localhost/index.php'; </script>";

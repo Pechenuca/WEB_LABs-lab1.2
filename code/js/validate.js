@@ -59,7 +59,7 @@ function checkForm() {
     if (err['x'] == false && err['y'] == false && err['r'] == false) {
 
         // do some shit with php
-        sendRequest("https://se.ifmo.ru/~s282351/handler.php", xNotValue.value, y, rNotValue.value)
+        sendRequest("http://localhost/handler.php", xNotValue.value, y, rNotValue.value)
 
     } else {
         if (err['x'] == true) {
